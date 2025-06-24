@@ -15,7 +15,7 @@
 > **Encadrant :** M. Adrien Guille  
 ## Informations générales
 
-- **Créé par :**
+- **Créé par :** 
   - Gabriel BREGAND – [gabriel.bregand@gmail.com](mailto:gabriel.bregand@gmail.com)
   - Zouhour ABASSI – [Zouhour.Kamtaoui@gmail.com](mailto:Zouhour.Kamtaoui@gmail.com)
   - Cordelia GUY – [guy.cordelia@gmail.com](mailto:guy.cordelia@gmail.com)
