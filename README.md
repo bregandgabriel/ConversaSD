@@ -12,10 +12,11 @@
 # ConversaSD
 > Chatbot développé dans le cadre du BUT Science des Données (SAÉ 6.EMS.01 - Modélisation statistique pour les données complexes et le Big Data)
 
-https://github.com/bregandgabriel/ConversaSD
-
 > **Encadrant :** M. Adrien Guille  
 ## Informations générales
+
+
+https://github.com/bregandgabriel/ConversaSD
 
 - **Créé par :** 
   - Gabriel BREGAND – [gabriel.bregand@gmail.com](mailto:gabriel.bregand@gmail.com)
